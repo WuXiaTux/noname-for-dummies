@@ -36,7 +36,9 @@ Windows版目前无需安装，下载项目Release中的Windows版压缩包，�
 
 ### 此项目使用的项目和扩展
 
-使用此[贴吧链接](https://tieba.baidu.com/p/9082412439)提供的无名杀数据包、由理版启动器、魔改十周年UI、千幻聆音、全能搜索扩展
+使用此[贴吧链接](https://tieba.baidu.com/p/9082412439)提供的无名杀数据包、由理版启动器、千幻聆音、全能搜索扩展
+使用[点点二改十周年UI](https://github.com/diandian157/dceadeUIX)扩展
+使用微信公众号“无名杀资源库”提供的无名美化扩展
 
 [无名杀本体下载地址](https://github.com/libnoname/noname/releases)
 
