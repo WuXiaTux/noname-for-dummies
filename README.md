@@ -56,7 +56,7 @@ Windows版目前无需安装，下载项目Release中的Windows版压缩包，�
 
 感谢贴吧[PZ_157](https://tieba.baidu.com/home/main?id=tb.1.3a25cf56.eqZjEs2SL3m-7wuS1aHw0w?t=1625216815&fr=pb)整理无名杀文件
 
-感谢[水乎](https://github.com/libccy)、[苏婆玛丽奥](https://github.com/Spmario233)、[诗笺](https://github.com/nonameShijian)等更新无名杀的所有大佬
+感谢[水乎（已退坑）](https://github.com/libccy)、[苏婆玛丽奥（已退坑）](https://github.com/Spmario233)、[诗笺](https://github.com/nonameShijian)等更新无名杀的所有大佬
 
 感谢为无名杀编写扩展的所有作者
 
