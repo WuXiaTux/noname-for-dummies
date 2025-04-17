@@ -8,9 +8,13 @@
 
 主要交流平台——无名杀GitHub官网；百度贴吧：无名杀吧（现吧主：诗笺）；无名杀QQ频道、微信公众号等
 
-### 项目支持的系统版本
+### 项目简介
 
-目前仅支持Windows 10及以上系统，Win 7用户请使用VxKex以支持无名杀使用的Electron框架
+本项目将无名杀和部分扩展进行整合，为新人制作简单易用的无名杀懒人包，使新人得以快速体验无名杀
+
+### 此项目支持的系统版本
+
+目前仅支持Windows 10及以上系统，Win 7用户请安装[VxKex](https://github.com/i486/VxKex/releases)以支持无名杀使用的Electron框架
 
 后续更新会支持更多系统
 
@@ -34,7 +38,7 @@ Windows版目前无需安装，下载项目Release中的Windows版压缩包，�
 
 ### 此项目制作原因
 
-无名杀因为版本多和教程不易搜索到的原因，新人较难找到本体并成功游玩上最新的版本并调试成功，因此我希望能够通过这个项目让新人直接游玩上无名杀
+无名杀因为教程不易直接使用搜索引擎搜索到且部分教程已过时等原因，新人直接找到无名杀并成功游玩上最新的版本，因此我
 
 如果本项目出现任何错误，请提交Issue或访问[我的B站](https://space.bilibili.com/2129765923)进行留言
 
@@ -48,17 +52,17 @@ Windows版目前无需安装，下载项目Release中的Windows版压缩包，�
 
 [无名杀各种启动器的官方下载地址](https://github.com/libnoname/noname/releases/tag/chromium91-client)
 
-[原十周年UI扩展地址](https://github.com/Tipx-L/decade-ui)
+[原千幻聆音扩展地址](https://github.com/1429825668/qianhuan)
 
-[千幻聆音扩展地址](https://github.com/1429825668/qianhuan)
+[原十周年UI扩展地址](https://github.com/Tipx-L/decade-ui)
 
 ### 感谢
 
-感谢贴吧[PZ_157](https://tieba.baidu.com/home/main?id=tb.1.3a25cf56.eqZjEs2SL3m-7wuS1aHw0w?t=1625216815&fr=pb)整理无名杀文件
+感谢贴吧[PZ_157](https://tieba.baidu.com/home/main?id=tb.1.3a25cf56.eqZjEs2SL3m-7wuS1aHw0w?t=1625216815&fr=pb)整理的无名杀相关文件
 
 感谢[水乎（已退坑）](https://github.com/libccy)、[苏婆玛丽奥（已退坑）](https://github.com/Spmario233)、[诗笺](https://github.com/nonameShijian)等更新无名杀的所有大佬
 
-感谢为无名杀编写扩展的所有作者
+感谢本项目使用扩展的作者
 
 ### 无名杀原版README
 
