@@ -56,6 +56,8 @@ Windows版的轻量版和无名杀原版目前无需安装，下载项目Release
 
 (3)下载速度慢？可查看[此篇文章](https://www.cnblogs.com/wuxiatux/p/18358288)或使用下载器（如[IDM](https://www.internetdownloadmanager.com)、[Mortix](https://motrix.app)等）解决！
 
+(4)此项目完全免费，不做任何商业用途，资源来自网络，转载时请附上Github原链接及我的名字（武侠Tux或WuXiaTux）
+
 #### 5.此项目使用的项目和扩展
 
 使用此[贴吧链接](https://tieba.baidu.com/p/9082412439)提供的无名杀数据包、由理版启动器、千幻聆音、全能搜索、皮肤切换和无名美化扩展
