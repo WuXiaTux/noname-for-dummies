@@ -12,9 +12,12 @@
 
 本项目将无名杀和部分扩展进行整合，为新人制作简单易用的无名杀懒人包，使新人得以快速体验无名杀
 
+### 三、项目必知
+
 #### 1.此项目支持的系统版本
 
-目前完整支持Windows 10及以上的64位系统，32位系统仅提供部分支持，Win 7用户请安装[VxKex](https://github.com/i486/VxKex/releases)以支持无名杀使用的Electron框架
+目前完整支持Windows 10及以上的64位系统，32位系统仅提供部分支持，Win 7用户请安装[VxKex-NEXT](https://github.com/YuZhouRen86/VxKex-NEXT/)
+或[VxKex原版](https://github.com/i486/VxKex/releases)以支持无名杀使用的Electron框架
 
 后续更新会支持更多系统
 
@@ -44,10 +47,10 @@ Windows版的轻量版和无名杀原版目前无需安装，下载项目Release
 
 #### 4.注意项
 
-懒人包在第一次打开时会要求程序通过防火墙，请勾选所有单选框，然后点击“允许访问”
-![2.png](2.png)
+(1)懒人包在第一次打开时会要求程序通过防火墙，请勾选所有单选框，然后点击“允许访问”
+![允许访问](2.png)
 
-第一次启动时会导入设置项，载入后程序会提示重启，点击确定重启后就可以使用懒人包了
+(2)第一次启动时会导入设置项，载入后程序会提示重启，点击确定重启后就可以使用懒人包了
 
 #### 5.此项目使用的项目和扩展
 
@@ -63,11 +66,11 @@ Windows版的轻量版和无名杀原版目前无需安装，下载项目Release
 
 [原十周年UI扩展地址](https://github.com/Tipx-L/decade-ui)
 
-### 三、项目反馈
+### 四、项目反馈
 
 如果本项目出现任何错误，请提交[Issue](https://github.com/WuXiaTux/noname-for-dummies/issues)或访问[我的B站](https://space.bilibili.com/2129765923)进行留言
 
-### 四、感谢
+### 五、感谢
 
 感谢贴吧[PZ_157](https://tieba.baidu.com/home/main?id=tb.1.3a25cf56.eqZjEs2SL3m-7wuS1aHw0w?t=1625216815&fr=pb)整理的无名杀相关文件
 
@@ -77,7 +80,7 @@ Windows版的轻量版和无名杀原版目前无需安装，下载项目Release
 
 感谢编写《无名杀全教程》的大佬们
 
-### 五、无名杀官方README
+### 六、无名杀官方README
 
 noname-server.exe 的源码见以下仓库：
 
